@@ -13,7 +13,7 @@ import './navigation.scss';
 
 class Navigation extends Component {
   componentDidMount() {
-    document.title = 'Toolbox';
+    document.title = 'Internal Access Management Demo';
   }
   
   render() {

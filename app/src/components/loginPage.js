@@ -9,7 +9,7 @@ import './session.scss';
 
 class LoginPage extends Component {
   componentDidMount(){
-    document.title = 'Toolbox';
+    document.title = 'Internal Access Management Demo';
   }
 
   onHandleLogin = (event) => {
